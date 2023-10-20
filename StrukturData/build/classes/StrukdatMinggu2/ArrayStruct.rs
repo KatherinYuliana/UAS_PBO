@@ -1,0 +1,3 @@
+StrukdatMinggu2.SMatkul
+StrukdatMinggu2.SMhs
+StrukdatMinggu2.ArrayStruct
