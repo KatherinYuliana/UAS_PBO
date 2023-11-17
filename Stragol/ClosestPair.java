@@ -1,5 +1,3 @@
-package Stragol;
-
 import java.util.Arrays;
 
 class Point {

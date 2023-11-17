@@ -1,5 +1,3 @@
-package Stragol;
-
 // Heapsort bekerja dengan dua tahap. Tahap pertama, konstruksi heap yaitu, membangun sebuah heap untuk array yang diberikan. 
 // Tahap kedua, penghapusan maksimum yaitu, menerapkan operasi penghapusan akar sebanyak n – 1 kali untuk heap yang tersisa.
 // dibandingkan dengan algoritma sort yang lain, algoritma heap sort jauh lebih efisien dalam kompleksitas waktu.

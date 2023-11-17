@@ -16,5 +16,6 @@ public class SoalNo2 {
         c = a;
         a = temp;
         
+        System.out.println(a + ", " + b + ", " + c);
     }
 }

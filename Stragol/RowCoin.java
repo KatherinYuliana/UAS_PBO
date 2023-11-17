@@ -1,5 +1,3 @@
-package Stragol;
-
 public class RowCoin {
     public static int CoinRow(int C[]){
         int n = C.length;

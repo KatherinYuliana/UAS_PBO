@@ -28,7 +28,7 @@ public class transposeMatriks {
 
         for (c = 0; c < n; c++) {
             for (d = 0; d < m; d++)
-            System.out.print(transpose[c][d] + "\t");
+            System.out.print(transpose[c][d] + " ");
             System.out.print("\n");
         }
     }

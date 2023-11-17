@@ -1,5 +1,3 @@
-package Stragol;
-
 import java.util.Scanner;
 
 // kompleksitas waktu untuk menyelesaikan knapsack problem jauh lebih cepat

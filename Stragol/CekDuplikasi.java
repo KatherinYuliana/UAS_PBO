@@ -1,5 +1,3 @@
-package Stragol;
-
 public class CekDuplikasi {
     public static boolean hasDuplicates(int arr[]){
         int n = arr.length;
